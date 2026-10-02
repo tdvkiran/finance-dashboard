@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pdfplumber
+pikepdf
+camelot-py[cv]
+pandas
+numpy
+python-multipart
+pytesseract
+Pillow
+scikit-learn
+python-jose
+aiofiles
+aiosqlite
+greenlet

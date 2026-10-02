@@ -1,0 +1,12 @@
+{
+  "name": "Finance Dashboard",
+  "short_name": "FinDash",
+  "description": "Personal bank statement visualizer",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
